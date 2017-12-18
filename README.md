@@ -1,10 +1,12 @@
 # NSF EAPSI 2016
 ## Awardee Info
-Tina Gui
-Ph.D. Student 
-Computer and Information Science
+Tina Gui <br>
+Ph.D. Student <br>
+Computer and Information Science <br>
 University of Mississippi 
- 
+<br>
+<br>
+
 
 ## Abstract
 Moyamoya syndrome is a rare disease first described in 1957. To the best of our knowledge, this disease tends to run in families and primarily affects children. Previous studies have proven regional and temporal distinctions in epidemiological features of Moyamoya disease, but population-based studies in regions other than Japan are limited. Although there are a variety of available Moyamoya disease database in Asia, there is no tool that can help researchers analyze the gene-disease correlations and predict the most effective genetic components accurately. This research will design and develop a gene-disease predicting tool to enable efficient processing of large-scale biological databases efficiently. Collaboration with Professor Eric Y. Chuang, an expert in cancer biology, and specialists from the Institute of Epidemiology and Preventive Medicine at the National Taiwan University will benefit researchers to study inherited genetic conditions and solidify a professional network in the field of rare genetic disease between the United States and Taiwan. 
