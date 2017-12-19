@@ -1,4 +1,4 @@
-# 2016 NSF East Asia and Pacific Summer Institutes (EAPSI) Fellowship 
+# ✿ 2016 NSF East Asia and Pacific Summer Institutes (EAPSI) Fellowship ✿
 ## Awardee Info
 Tina Gui <br>
 Ph.D. Student <br>
